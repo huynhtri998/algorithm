@@ -1,7 +1,7 @@
-package slidingwindow;
+package twopointer.slidingwindow;
 
 import org.junit.jupiter.api.*;
-import org.trilabs94.slidingwindow.LargestSumOfKContinuousElement;
+import twopointer.slidingwindow.LargestSumOfKContinuousElement;
 
 import static org.junit.jupiter.api.Assertions.*;
 

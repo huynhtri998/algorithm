@@ -1,11 +1,9 @@
-package slidingwindow;
+package twopointer.slidingwindow;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
-import org.junit.jupiter.params.provider.ValueSource;
-import org.trilabs94.slidingwindow.LargestSumOfKContinuousElement;
-import org.trilabs94.slidingwindow.LongestSubstringSolver;
+import twopointer.slidingwindow.LongestSubstringSolver;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

@@ -1,4 +1,4 @@
-package org.trilabs94.slidingwindow;
+package twopointer.slidingwindow;
 
 import java.util.HashSet;
 import java.util.Set;

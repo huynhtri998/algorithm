@@ -1,8 +1,7 @@
-package twopointer.slidingwindow;
+package twopointer.backwardtraversal;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import twopointer.backwardtraversal.Sum2BinaryString;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

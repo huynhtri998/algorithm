@@ -1,8 +1,6 @@
 package twopointer.slidingwindow;
 
 import org.junit.jupiter.api.*;
-import twopointer.slidingwindow.LargestSumOfKContinuousElement;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)

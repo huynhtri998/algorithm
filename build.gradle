@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.trilabs94'
+group = 'algorithm.trilabs94'
 version = '1.0-SNAPSHOT'
 
 repositories {
